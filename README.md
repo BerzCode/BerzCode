@@ -16,6 +16,7 @@
 - 📫 How to reach me **saurabhkirve@gmail.com**
 
 - ⚡ Fun fact **ChatGPT ftw✌️**
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/BerzCode/BerzCode/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
